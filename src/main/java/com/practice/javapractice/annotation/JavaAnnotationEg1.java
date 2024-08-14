@@ -6,7 +6,6 @@ public class JavaAnnotationEg1 {
 	Reflection is use to access metadata of any class.
 	Annotation can be applied at anywhere like class, Methods, Interface, Fields, parameters etc.
 	
-	
 	Annotation have 2 types : 
 	
 	1. Predefined 
