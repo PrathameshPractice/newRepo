@@ -66,10 +66,10 @@ public class ReflectionEg1 {
 			
 		}
 		
-		}
-		catch(Exception e) {
+		}catch(Exception e) {
 			
 		}
+
 		}
 
 }
